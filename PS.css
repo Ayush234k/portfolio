@@ -9,7 +9,7 @@
     font-family: "Custom";
     src : url(./fonts/Azonix.otf);
 }
-/* .vid{
+.vid{
     position: fixed;
     z-index: -1;
     width: 100%;
@@ -26,7 +26,7 @@
         width: auto;
         height: 100%;
     }
-} */
+}
 /* .fa-brands,
 .fa-solid{
     color: white;
@@ -71,7 +71,7 @@
     transition: ease-out 0.15s;
 }
 body{
-    background-image: url(./Images/m3.jpg);
+    /* background-image: url(./Images/m3.jpg); */
     background-size: cover;
 }
 .cover{
